@@ -1,0 +1,19 @@
+a{
+    color:crimson
+}
+u{
+    color:green
+}
+
+table{
+    border-collapse: collapse;
+    font-family:sans-serif;
+}
+table th,td{
+    padding-right:40px;
+}
+tr:nth-child(even){
+    background-color: black;
+    opacity: 0.8;
+    color:white
+}
